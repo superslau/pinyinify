@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "1.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["FIXME (who is writing this software)"]
+  s.authors = ["Simon Lau"]
   s.date = %q{2009-03-15}
   s.default_executable = %q{pinyinify}
   s.description = %q{Transliterate from Mandarin to Pinyin}

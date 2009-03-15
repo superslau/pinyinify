@@ -28,7 +28,7 @@ ActiveSupport
 
 == INSTALL:
 
-sudo gem install superslau-pinyinify --sources=http://gems.github.com
+sudo gem install superslau-pinyinify --source=http://gems.github.com
 
 == LICENSE:
 
