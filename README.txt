@@ -34,8 +34,7 @@ sudo gem install superslau-pinyinify --sources=http://gems.github.com
 
 (The MIT License)
 
-Copyright (c) 2008 Simon Lau (different license?)
-
+Copyright (c) 2009 Simon Lau
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 'Software'), to deal in the Software without restriction, including
